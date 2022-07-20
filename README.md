@@ -1,12 +1,5 @@
 # 👨‍🚀 Rocketseat's Explorer coursework projects
 
-![created](https://badges.pufler.dev/created/bpires/rocketseat-explorer?color=5F9EA0) &nbsp;  ![last commit](https://img.shields.io/github/last-commit/bpires/rocketseat-explorer?color=5F9EA0 'last commit') &nbsp;  ![repo size](https://img.shields.io/github/repo-size/bpires/rocketseat-explorer?color=5F9EA0 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/bpires/rocketseat-explorer?color=5F9EA0 'languages') &nbsp; ![license](https://img.shields.io/github/license/bpires/rocketseat-explorer?color=5F9EA0) 
-<br/>
-
-<br>
-
-<img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" height="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75" height="35">&nbsp;
-
 <br>
 
 This is the way I've found to document my journey as a rookie Web Developer 🚀
@@ -38,17 +31,15 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 ##
 
 <div>
-<a href="https://discord.com/users/690807885617430558"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-<a href="https://www.polywork.com/rafaelbpires"><img align="right" width="25px" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/polywork.svg" />
-<a href="https://bpires.hashnode.dev/"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />    
-<a href="https://www.twitter.com/rafaelbpires"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<a href="https://www.linkedin.com/in/rafaelbpires"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<a href="https://discord.com/users/690807885617430558"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+<a href="https://www.twitter.com/Theodororic"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+<a href="https://www.linkedin.com/in/ricardo-theodoro"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       
 </div>
 
 <div display="inline-block">
   
-<a href="https://www.linkedin.com/in/rafaelbpires" target="_blank"><img align="left" height="115em" src="https://user-images.githubusercontent.com/86871991/172057152-983b5c18-7082-4d54-9075-356208b9bc65.png"></a>
+<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="left" height="115em" src="https://user-images.githubusercontent.com/86871991/172057152-983b5c18-7082-4d54-9075-356208b9bc65.png"></a>
 
 </div>  
 <div display="inline-block">
@@ -57,7 +48,7 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 >  
 <img align="left" height="35em" src="https://forthebadge.com/images/badges/built-with-love.svg"> <br/>
 >
-<a href="https://www.linkedin.com/in/rafaelbpires" target="_blank"><img align="left" height="35em" src="https://user-images.githubusercontent.com/86871991/172058253-ca542177-e0a4-4db0-8ac8-017f6e12b268.png"></a><br/>
+<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="left" height="35em" src="https://user-images.githubusercontent.com/86871991/172058253-ca542177-e0a4-4db0-8ac8-017f6e12b268.png"></a><br/>
 
 </div>  
 
