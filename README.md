@@ -37,23 +37,11 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
       
 </div>
 
-<div display="inline-block">
+
   
-<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="left" height="115em" src="https://user-images.githubusercontent.com/86871991/172057152-983b5c18-7082-4d54-9075-356208b9bc65.png"></a>
+<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="left" height="115em" src="https://media-exp1.licdn.com/dms/image/C4E03AQEtrWgdj08BCw/profile-displayphoto-shrink_200_200/0/1656786821432?e=1663804800&v=beta&t=ueD5Nirc07n23D98ctftN4TmMsRogR1PNs1cgoCIKJg"></a>
 
-</div>  
-<div display="inline-block">
 
-<img align="left" height="35em" src="https://forthebadge.com/images/badges/powered-by-coffee.svg"> <br/>
->  
-<img align="left" height="35em" src="https://forthebadge.com/images/badges/built-with-love.svg"> <br/>
->
-<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="left" height="35em" src="https://user-images.githubusercontent.com/86871991/172058253-ca542177-e0a4-4db0-8ac8-017f6e12b268.png"></a><br/>
-
-</div>  
-
-##
-  
 <div align="center"  display="inline-block">
 
 <i> I'm am an open source enthusiast.</i> 🌱
