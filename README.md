@@ -44,10 +44,9 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 
 <div align="center"  display="inline-block">
 
-<i> I'm am an open source enthusiast.</i> 🌱
-<br/><i>Feel free to get inspiration from any aspect of this repo! 
-  <br/>Even so, be reasonable: <strong>do not just copy!</strong>
-<br/>Like academic writing, your work can incorporate the ideas of others 
-<br>but should reflect your original approach to the problem.</i>
+<i> Eu sou um entusiasta de código aberto.</i> 🌱
+<br/><i>Sinta-se à vontade para se inspirar em qualquer aspecto deste repositório! 
+<br/>LAssim como a escrita acadêmica, seu trabalho pode incorporar as ideias de outras pessoas 
+<br>, mas deve refletir sua abordagem original do problema.</i>
 
 </div>
