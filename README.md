@@ -31,7 +31,7 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 ##
 
 <div>
-<a href="https://discord.com/users/690807885617430558"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+<a href="https://discord.com/users/953783176474538037"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
 <a href="https://www.twitter.com/Theodororic"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 <a href="https://www.linkedin.com/in/ricardo-theodoro"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       
