@@ -44,9 +44,6 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 
 <div align="center"  display="inline-block">
 
-<i> Eu sou um entusiasta de código aberto.</i> 🌱
-<br/><i>Sinta-se à vontade para se inspirar em qualquer aspecto deste repositório! 
-<br/>LAssim como a escrita acadêmica, seu trabalho pode incorporar as ideias de outras pessoas 
-<br>, mas deve refletir sua abordagem original do problema.</i>
+
 
 </div>
