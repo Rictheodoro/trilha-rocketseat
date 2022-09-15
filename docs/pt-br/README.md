@@ -7,7 +7,7 @@
 
 
 # Rocketseat Explorer coursework projects <!-- {docsify-ignore} -->
-#### 👨‍🚀 Rafael B. Pires <!-- {docsify-ignore} -->
+#### 👨‍🚀 Ricardo Theodoro <!-- {docsify-ignore} -->
 
 This is a way to document my journey as a WebDev aspirer 🚀
 
