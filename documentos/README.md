@@ -7,7 +7,7 @@
 
 
 # Rocketseat Explorer coursework projects <!-- {docsify-ignore} -->
-#### 👨‍🚀 Rafael B. Pires <!-- {docsify-ignore} -->
+#### 👨‍🚀 Ricardo Theodoro <!-- {docsify-ignore} -->
 
 This is a way to document my journey as a WebDev aspirer 🚀
 
@@ -15,7 +15,7 @@ Here you'll find coursework projects and exercises I'm gathering throughout my e
 
 If you like this way of documenting your journey, feel free to fork it and use it your own way. 
 
-I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://github.com/bpires/rocketseat-explorer) or sharing your thoughts with me.
+I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://rictheodoro.github.io/trilha_rocketseat_explorer/#/) or sharing your thoughts with me.
 
 
 
