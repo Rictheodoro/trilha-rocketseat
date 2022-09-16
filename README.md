@@ -38,10 +38,9 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 </div>
 
 
-  
 
 
 <div align="center"  display="inline-block">
 
-Feito por [Ricardo Theodoro](https://github.com/rictheodoro)!
+Feito por [Ricardo Theodoro](https://github.com/rictheodoro)
 </div>
