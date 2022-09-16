@@ -6,7 +6,7 @@ This is the way I've found to document my journey as a rookie Web Developer 🚀
 
 Here you'll find coursework projects and study exercises I'm gathering throughout my experience on the Explorer course at Rocketseat, as well as other little projects I do along the way.   
 
-Check out **[📙 my learning journal](https://rictheodoro.github.io/trilha_rocketseat_explorer/docs)** on this repo docs.
+Check out **[📙 my learning journal](https://rictheodoro.github.io/trilha_rocketseat_explorer)** on this repo docs.
 
 If you like this way of documenting your journey, feel free to reach out and ask me anything. It will be my pleasure to help you out! 
 
