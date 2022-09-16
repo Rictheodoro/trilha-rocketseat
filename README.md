@@ -31,15 +31,14 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 ##
 
 <div>
-<a href="https://discord.com/users/953783176474538037"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-<a href="https://www.twitter.com/Theodororic"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<a href="https://www.linkedin.com/in/ricardo-theodoro"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<a href="https://discord.com/users/953783176474538037" target="_blank"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+<a href="https://www.twitter.com/Theodororic" target="_blank"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       
 </div>
 
 
   
-<a href="https://www.linkedin.com/in/ricardo-theodoro" target="_blank"><img align="left" height="115em" src="https://media-exp1.licdn.com/dms/image/C4E03AQEtrWgdj08BCw/profile-displayphoto-shrink_200_200/0/1656786821432?e=1663804800&v=beta&t=ueD5Nirc07n23D98ctftN4TmMsRogR1PNs1cgoCIKJg"></a>
 
 
 <div align="center"  display="inline-block">
