@@ -34,7 +34,7 @@ I'd appreciate it if you say thanks **by ⭐ starring this repo** or sharing you
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-01/)**
+🔗 **[See it online](https://Rictheodoro.github.io/trilha_rocketseat_explorer/project-01/)**
 
 👨‍💻 **Task:** build a small business static website from a given Figma project.
 
