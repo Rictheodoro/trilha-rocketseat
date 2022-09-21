@@ -34,7 +34,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-01/)**
+🔗 **[See it online](https://github.com/Rictheodoro/trilha_rocketseat_explorer/project-01/)**
 
 👨‍💻 **Task:** build a small business static website from a given Figma project.
 
@@ -55,7 +55,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-02/)**
+🔗 **[See it online](https://github.com/Rictheodoro/trilha_rocketseat_explorer/project-02/)**
 
 
 👨‍💻 **Task:** build a small business static website from a given Figma project.
@@ -80,7 +80,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-03/)**
+🔗 **[See it online](https://github.com/Rictheodoro/trilha_rocketseat_explorer/project-03/)**
 
 👨‍💻 **Task:** Apply and reinforce the knowledge gained.
 
@@ -100,7 +100,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-04/)**
+🔗 **[See it online](https://github.com/Rictheodoro/trilha_rocketseat_explorer/project-04/)**
 
 👨‍💻 **Task:** build a sample form from a given [Figma model](https://www.figma.com/file/sgcJKpGAeVqh7rf2pwsOd9/Explorer-Stage-03-Projeto-01)
 
@@ -118,7 +118,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 As this is a learning repository, I won't be accepting direct Pull Requests on it.
 
-However, if you found any bug, error, or have a improve suggestion, [please open up an issue about it!](https://github.com/bpires/rocketseat-explorer/issues/new)
+However, if you found any bug, error, or have a improve suggestion, [please open up an issue about it!](https://github.com/Rictheodoro/trilha_rocketseat_explorer/issues/new)
 
 I'll really appreciate that and thank you in advance for helping me in my journey. 
 
